@@ -1,0 +1,109 @@
+/* * {
+    margin: 0;
+} */
+
+#carouselExampleIndicators {
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.carousel-control-prev {
+    margin-left: 20%;
+}
+  
+.carousel-control-next {
+    margin-right: 20%;
+}
+
+
+.header, h2{
+    text-align: center;
+    margin: 32px 0;
+}
+
+#news a {
+    text-decoration: underline;
+}
+
+#logos img {
+    width: 128px;
+    margin: 0 24px;
+}
+
+#copyright {
+    color: white;
+    margin: auto 15%;
+}
+
+#copyright p {
+    margin: 0;
+}
+
+#socials{
+    margin: auto 0;
+}
+
+#socials svg {
+    margin: 0 16px;
+}
+
+#video, #facebook-feed, #newsletter {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+
+ ul div {
+     padding-left: 1em;
+ }
+
+ .sticky {
+    position: sticky;
+    top: 0px; /* When the element reaches top: 10px, it becomes fixed. */
+    z-index: 100;
+}
+
+#donate-food {
+    text-align: center;
+}
+
+.bullet-list {
+    text-align: left;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+h5 {
+    text-align: center;
+    text-decoration: underline;
+    margin: 2em;
+}
+
+#volunteer-form {
+    border: 1px;
+    border-color: gray;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 3em;
+    padding-top: 0;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#FormControlSelectState {
+    width: 50%;
+}
